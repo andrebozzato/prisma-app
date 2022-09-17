@@ -1,0 +1,4 @@
+npm i prisma typescript ts-node @types/node -D
+
+npx prisma init
+
